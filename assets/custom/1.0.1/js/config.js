@@ -1,6 +1,8 @@
 var conf = {
-    domain: 'http://localhost/medipecheckin/',
-    api : 'http://localhost/medipecheckin/controller/',
+    // domain: 'http://localhost/medipecheckin/',
+    // api : 'http://localhost/medipecheckin/controller/',
+    domain: 'http://medipe2.psu.ac.th/medipecheckin/',
+    api : 'http://medipe2.psu.ac.th/medipecheckin/controller/',
     prefix: 'mdcaw_',
     current_version: '1.0.1',
     os: 'web'

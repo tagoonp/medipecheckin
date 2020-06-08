@@ -6,10 +6,11 @@ date_default_timezone_set("Asia/Bangkok");
 
 define( 'DB_NAME', 'epicheckin' );
 define( 'DB_USER', 'root' );
-define( 'DB_PASSWORD', 'mandymorenn' );
+// define( 'DB_PASSWORD', 'mandymorenn' );
+define( 'DB_PASSWORD', 'na20v^U+' );
 define( 'DB_HOST', 'localhost' );
 define( 'TB_PREFIX', '' );
-define( 'ROOT_DOMAIN', 'http://localhost/medipecheckin/' );
+define( 'ROOT_DOMAIN', 'http://medipe2.psu.ac.th/medipecheckin/' );
 
 // Define system parameters
 $sysdate = date('Y-m-d');
